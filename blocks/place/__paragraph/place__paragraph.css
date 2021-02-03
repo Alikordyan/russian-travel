@@ -1,0 +1,17 @@
+.place__paragraph { 
+  font-size:18px;
+  margin:0;
+  padding:0;
+  line-height:1.66;
+}
+
+.place__paragraph:first-of-type { 
+  padding-bottom: 27px;
+}
+
+@media screen and (max-width: 768px) { 
+  .place__paragraph { 
+    font-size:16px;
+    line-height:1.61;
+  }
+}
