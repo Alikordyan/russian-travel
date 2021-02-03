@@ -5,22 +5,6 @@
 @import url(../blocks/root/root.css);
 @import url(../blocks/link-opacity/link-opacity.css);
 
-/*  стиль Шрифта */
-@import url(../fonts/fonts.css);
-@import url(../fonts/Black/Inter-Black.otf);
-@import url(../fonts/Black/Inter-Black.ttf);
-@import url(../fonts/Black/Inter-Black.woff);
-@import url(../fonts/Black/Inter-Black.woff2);
-@import url(../fonts/Bold/Inter-Bold.otf);
-@import url(../fonts/Bold/Inter-Bold.ttf);
-@import url(../fonts/Bold/Inter-Bold.woff);
-@import url(../fonts/Bold/Inter-Bold.woff2);
-@import url(../fonts/Regular/Inter-Regular.otf);
-@import url(../fonts/Regular/Inter-Regular.ttf);
-@import url(../fonts/Regular/Inter-Regular.woff);
-@import url(../fonts/Regular/Inter-Regular.woff2);
-
-
 /*блок секции header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
