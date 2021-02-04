@@ -5,9 +5,10 @@
   line-height:1.66;
 }
 
-.place__paragraph:first-of-type { 
-  padding-bottom: 27px;
+.place__paragraph:nth-last-child(2n) {
+  padding-bottom:27px;
 }
+ 
 
 @media screen and (max-width: 768px) { 
   .place__paragraph { 

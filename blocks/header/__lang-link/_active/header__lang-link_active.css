@@ -1,0 +1,5 @@
+.header__lang-link_active {
+  border-bottom: solid 2px #ffffff;
+  /* если указать состояние text-decoration: underline; то черта вплотную
+  соприкасается к буквам , поэтому использовал border */
+}
